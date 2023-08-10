@@ -1,0 +1,44 @@
+.contact-us-main{
+  /* background-image: url("./350829-widescreen-website-background-1920x1080-windows-xp.jpg");
+  background-position: center center; */
+  background-image: linear-gradient(180deg,rgb(14, 14, 63),black,rgb(14, 14, 63));
+  height: 100vh;
+}
+.contact-us-main2{
+  border: 3px solid black;
+  height: 70vh;
+  border-radius: 40px;
+}
+.contact-us-input1::placeholder{
+  color: black;
+}
+.contact-us-input1{
+  outline: none;
+  border: none;
+}
+.contact-us-div{
+  border: 1px solid black;
+  border-radius:20px;
+}
+.button-login-contact{
+  background:none;
+  border-radius: 20px;
+  color:white;
+  background-color:red;
+  border: none;
+} 
+.instagram-contact{
+  font-size: 400%;
+  cursor: pointer;
+  color: #0077B5;
+}
+.twitter-contact{
+  font-size: 400%;
+  cursor: pointer;
+  color: #25D366
+}
+.facebook-contact{
+  font-size: 400%;
+  cursor: pointer;
+  color: #e4405f;
+}

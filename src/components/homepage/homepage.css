@@ -1,0 +1,30 @@
+.home-page-im{
+  /* background-image: url("./350829-widescreen-website-background-1920x1080-windows-xp.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background-image: linear-gradient(180deg,black,rgb(14, 14, 63));
+  height: 100vh;
+}
+.hompage-name{
+  color: black;
+  font-weight: 700;
+}
+.hompage-name-describe{
+  color: black;
+  font-weight: 700;
+}
+.home-page-button{
+  background-color:black;
+  color:white;
+  /* border: 3px solid blue; */
+  border-radius: 5px;
+}
+.home-page-button:hover{
+  background-color:green;
+  color:white;
+}
+.imagee{
+  /* border: 2px solid black; */
+  border-radius: 0%;
+}

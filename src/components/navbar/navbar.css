@@ -1,0 +1,15 @@
+.heading-name{
+  color: rgb(41, 41, 180);
+  font-family: Arial;
+  font-weight:700;
+}
+
+.nav-heading-name{
+  color: black;
+  font-family: Arial;
+  font-weight: 700;
+}
+.navbar-color1{
+  /* background-color:rgb(81, 1, 1) */
+  background-color: black;
+}

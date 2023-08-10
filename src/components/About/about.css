@@ -1,0 +1,21 @@
+.about-main-div{
+  /* background-image: url("./350829-widescreen-website-background-1920x1080-windows-xp.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background-image: linear-gradient(180deg,black,rgb(14, 14, 63),black);
+  height: 100vh;
+}
+.about-image{
+  border-radius:0%;
+}
+.about-me{
+  font-weight:bolder;
+  font-family: 'Times New Roman', Times, serif;
+  color:white;
+}
+.about-mr-desc{
+  font-style: italic;
+  font-weight: bold;
+  padding-top: 50%;
+}

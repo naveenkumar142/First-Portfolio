@@ -1,0 +1,77 @@
+body{
+  /* background-image: url("./350829-widescreen-website-background-1920x1080-windows-xp.jpg");
+  background-position: center center center center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background-image: linear-gradient(180deg,black,black,rgb(24, 24, 88));
+}
+/* .portfolio-main-div{
+  /* background-image: url("./350829-widescreen-website-background-1920x1080-windows-xp.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+  /* height: 100vh;
+}
+*/
+.my-port{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  background-image: linear-gradient(to right, #f06, #9f6);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.horizontal-line{
+  margin-right: 49%;
+  margin-left: 45%;
+  border: 2px solid white
+}
+.my-projects{
+  background-image: linear-gradient(to right, #f06, #9f6);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.education-heading{
+  color:blanchedalmond
+}
+.top-skills{
+  color:blanchedalmond;
+  background-clip: text;
+}
+.html-5{
+  color: #DE4F3F;
+  font-size: 600%;
+}
+.css-5{
+  font-size: 600%;
+  color: #4F9FCF;
+}
+.js-5{
+  font-size: 600%;
+  color: #F0DB4F;
+}
+.bootstrap{
+  font-size: 600%;
+  color:blueviolet
+}
+.react{
+  font-size: 600%;
+  color: #61DAFB; 
+}
+.node{
+  font-size: 600%;
+  color: #339933;
+}
+.java{
+  font-size: 600%;
+  color: #007396;
+}
+.mongodb{
+  color:#47A248;
+  font-size: 600%;
+}
+.skillss{
+  border-radius: 99%;
+  transform: rotate(1deg);
+}
